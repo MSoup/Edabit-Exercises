@@ -1,2 +1,2 @@
 language = "python3"
-run = "python [VeryH]Persistence/persistence.py"
+run = "python [VeryH]ConcertSeats/concert_seats.py"
